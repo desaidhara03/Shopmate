@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Shopmate", "http://localhost:58820", "{7F1F62AD-F829-4F0B-8B5D-753ED146EC92}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{1242de34-ce84-40ae-8de9-23fdb86442d7}|WebParsers.dll;{09e797a1-369c-4a46-8b4a-05925b651b9b}|ShopmateEntities.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58820"
+		Debug.AspNetCompiler.PhysicalPath = "..\Shopmate\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58820\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58820"
+		Release.AspNetCompiler.PhysicalPath = "..\Shopmate\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58820\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\Shopmate\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopmateEntities", "ShopmateEntities\ShopmateEntities\ShopmateEntities.csproj", "{09E797A1-369C-4A46-8B4A-05925B651B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebParsers", "WebParsers\WebParsers\WebParsers.csproj", "{1242DE34-CE84-40AE-8DE9-23FDB86442D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1F62AD-F829-4F0B-8B5D-753ED146EC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1F62AD-F829-4F0B-8B5D-753ED146EC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1F62AD-F829-4F0B-8B5D-753ED146EC92}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1F62AD-F829-4F0B-8B5D-753ED146EC92}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{09E797A1-369C-4A46-8B4A-05925B651B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E797A1-369C-4A46-8B4A-05925B651B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E797A1-369C-4A46-8B4A-05925B651B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E797A1-369C-4A46-8B4A-05925B651B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1242DE34-CE84-40AE-8DE9-23FDB86442D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242DE34-CE84-40AE-8DE9-23FDB86442D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242DE34-CE84-40AE-8DE9-23FDB86442D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242DE34-CE84-40AE-8DE9-23FDB86442D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

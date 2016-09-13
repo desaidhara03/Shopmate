@@ -1,0 +1,10 @@
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\WebParsers.dll
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\WebParsers.pdb
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\HtmlAgilityPack.dll
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\ShopmateEntities.dll
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\ShopmateEntities.pdb
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\HtmlAgilityPack.pdb
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\bin\Release\HtmlAgilityPack.xml
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\obj\Release\WebParsers.csprojResolveAssemblyReference.cache
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\obj\Release\WebParsers.dll
+C:\Google Drive\Projects\Shopmate\WebParsers\WebParsers\obj\Release\WebParsers.pdb
